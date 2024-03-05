@@ -1,0 +1,25 @@
+{
+  "name": "alidayu-es6",
+  "version": "0.0.2",
+  "description": "alidayu",
+  "keywords": [
+    "alidayu"
+  ],
+  "main": "topClient.js",
+  "dependencies": {
+    "urllib": ">=0.5.2"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xZoomEye/alidayu-es6.git"
+  },
+  "author": "suntopo@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xZoomEye/alidayu-es6/issues"
+  },
+  "homepage": "https://github.com/0xZoomEye/alidayu-es6#readme"
+}
